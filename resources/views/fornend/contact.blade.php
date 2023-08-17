@@ -6,7 +6,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12">
                    <div class="contact_message content">
-                        <h3>contact us</h3>    
+                        <h3>contact us later</h3>    
+                        <h3>Good Bye</h3>    
                          <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human. qui sequitur mutationem consuetudium lectorum. Mirum est notare quam</p>
                         <ul>
                             <li><i class="fa fa-fax"></i>  Address :Dharamshala Himachal Pradesh</li>
